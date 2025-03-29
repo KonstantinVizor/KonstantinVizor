@@ -35,6 +35,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinVizor&layout=compact&theme=dark&title_color=ff0000&bg_color=000000&hide_border=true">
   </div>
   <hr>
+  <h3>🎓 Образование</h3>
+  <p>
+  МГТУ им. Н.Э. Баумана (BMSTU)<br>
+  └──────────Software engineer (IU7)
+  </p>
   <h3>💬 Как связаться</h3>
   <p align="center">
     <a href="mailto:vizor@etern.su">
