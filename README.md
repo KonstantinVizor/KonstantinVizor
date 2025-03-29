@@ -12,16 +12,17 @@
     <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=red" alt="Docker">
     <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=red" alt="Nginx">
     <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=red" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/Cmake-000000?style=for-the-badge&logo=cmake&logoColor=red" alt="Cmake">
     <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=red" alt="Vim">
     <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=red" alt="Arch Linux">
   </p>
   <hr>
   <h3>🔺 Ключевые проекты</h3>
   <h4>● BUMessenger</h4>
-  <img src="https://img.shields.io/badge/-CI/CD-000000?style=flat&logo=githubactions&logoColor=red" alt="CI/CD">
-  <img src="https://img.shields.io/badge/-VPS-000000?style=flat&logo=digitalocean&logoColor=red" alt="VPS">
-  <img src="https://img.shields.io/badge/-SSL-000000?style=flat&logo=letsencrypt&logoColor=red" alt="SSL">
-  <img src="https://img.shields.io/badge/-Web_Dev-000000?style=flat&logo=html5&logoColor=red" alt="Web Dev">
+  <img src="https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=red" alt="CI/CD">
+  <img src="https://img.shields.io/badge/-VPS-000000?style=for-the-badge&logo=digitalocean&logoColor=red" alt="VPS">
+  <img src="https://img.shields.io/badge/-SSL-000000?style=for-the-badge&logo=letsencrypt&logoColor=red" alt="SSL">
+  <img src="https://img.shields.io/badge/-Web_Dev-000000?style=for-the-badge&logo=html5&logoColor=red" alt="Web Dev">
   <ul>
     <li>Настроил автоматизированные пайплайны сборки и деплоя</li>
     <li>Развернул и обслуживал кластер виртуальных серверов</li>
