@@ -17,17 +17,17 @@
   </p>
   <hr>
   <h3>🔺 Ключевые проекты</h3>
-  <h4><a href="https://bumessenger.etern.su"><img src="https://img.shields.io/badge/BUMessenger-black?style=for-the-badge"></a></h4>
-      <img src="https://img.shields.io/badge/-CI/CD-000000?style=flat&logo=githubactions&logoColor=red" alt="CI/CD">
-      <img src="https://img.shields.io/badge/-VPS-000000?style=flat&logo=digitalocean&logoColor=red" alt="VPS">
-      <img src="https://img.shields.io/badge/-SSL-000000?style=flat&logo=letsencrypt&logoColor=red" alt="SSL">
-      <img src="https://img.shields.io/badge/-Web_Dev-000000?style=flat&logo=html5&logoColor=red" alt="Web Dev">
-    <ul>
-      <li>Настроил автоматизированные пайплайны сборки и деплоя</li>
-      <li>Развернул и обслуживал кластер виртуальных серверов</li>
-      <li>Создал сайт проекта с адаптивным дизайном</li>
-      <li>Реализовал HTTPS с помощью Let's Encrypt</li>
-    </ul>
+  <h4>● BUMessenger</h4>
+  <img src="https://img.shields.io/badge/-CI/CD-000000?style=flat&logo=githubactions&logoColor=red" alt="CI/CD">
+  <img src="https://img.shields.io/badge/-VPS-000000?style=flat&logo=digitalocean&logoColor=red" alt="VPS">
+  <img src="https://img.shields.io/badge/-SSL-000000?style=flat&logo=letsencrypt&logoColor=red" alt="SSL">
+  <img src="https://img.shields.io/badge/-Web_Dev-000000?style=flat&logo=html5&logoColor=red" alt="Web Dev">
+  <ul>
+    <li>Настроил автоматизированные пайплайны сборки и деплоя</li>
+    <li>Развернул и обслуживал кластер виртуальных серверов</li>
+    <li>Создал сайт проекта с адаптивным дизайном</li>
+    <li>Реализовал HTTPS с помощью Let's Encrypt</li>
+  </ul>
   <hr>
   <h3>📈 Статистика GitHub</h3>
   <div align="center">
