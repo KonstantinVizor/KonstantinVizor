@@ -1,7 +1,7 @@
 <div>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=KonstantinVizor&fontColor=e00000&fontSize=50&animation=fadeIn&fontAlignY=35">
-    <h2>DevOps Engineer | C/C++ Developer | Linux Enthusiast</h1>
+    <h2>DevOps Engineer | C/C++ Developer | Linux Enthusiast</h2>
   </div>
   <hr>
   <h3>🛠 Технологии и инструменты</h3>
