@@ -37,7 +37,7 @@
   <hr>
   <h3>💬 Как связаться</h3>
   <p align="center">
-    <a href="vizor@etern.su">
+    <a href="mailto://vizor@etern.su">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
     </a>
     <a href="https://t.me/kvizor">
