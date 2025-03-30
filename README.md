@@ -43,12 +43,8 @@
   </p>
   <h3>💬 Как связаться</h3>
   <p align="center">
-    <a href="mailto:vizor@etern.su">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
-    </a>
-    <a href="https://t.me/kvizor">
-      <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram">
-    </a>
+    <a href="mailto:vizor@etern.su"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"></a>
+    <a href="https://t.me/kvizor"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram"></a>
   </p>
   <hr>
   <div align="center">
